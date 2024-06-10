@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: billane/labs:ex1
+        image: nginx:stable-alpine3.19-perl
         ports:
         - containerPort: 8080
