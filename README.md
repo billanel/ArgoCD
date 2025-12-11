@@ -1,2 +1,2 @@
 # ArgoCD
-A simple Lab
+
